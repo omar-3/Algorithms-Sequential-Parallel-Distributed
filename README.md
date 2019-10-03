@@ -4,8 +4,8 @@ This repository would contain every algorithm of that AMAZING book https://amzn.
 
 
 
-|Page #|Type|Language|Level|Other stuff|
-|---|---|---|---|---|
-|  |   |   |   |   |
-|  |   |   |   |   |
-|  |   |   |   |   |
+|Page #|Type|Language|Level|Other stuff|#|name|
+|---|---|---|---|---|---|---|
+|  |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |
