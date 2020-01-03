@@ -1,4 +1,5 @@
 #!/bin/bash
+# make it executable and run it
 naive_power () {
     number=$1
     power=$2
