@@ -10,7 +10,7 @@ this repo is just for myself to get better at coding so sometimes you will find 
 
 |Page #|Language|Other stuff|name|test|
 |---|---|---|---|---|
-| 4 |Python/C++|-|Naive Powers|Yes|
+| 4 |Python/C++/bash|-|Naive Powers|Yes|
 
 
 </br>
