@@ -3,7 +3,7 @@
 */
 
 #define CATCH_CONFIG_MAIN  
-#include "./../../catch.hpp"
+#include "./../../.catch.hpp"
 #include "algorithm.cpp"
 
 TEST_CASE( "naive_powers are computed", "[naive_power]" ) {
