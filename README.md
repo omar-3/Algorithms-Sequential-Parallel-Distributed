@@ -8,11 +8,10 @@ If I copied someone's solution for a problem, I would acknowledge that in the co
 </br>
 this repo is just for myself to get better at coding so sometimes you will find me using different libraries or test suites or whatever. I'm starting this repo and I "think" that i know python,old c++,bash,java, and a bit of javascript, but I'm planning to learn while coding other languages. You may notice that I get a bit better "hopfully" as you go through examples and get a bit cleaner
 
-|Page #|Type|Language|Level|Other stuff|#|name|test|
-|---|---|---|---|---|---|---|---|
-|  |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |
+|Page #|Language|Other stuff|name|test|
+|---|---|---|---|---|
+| 4 |Python/C++|-|Naive Powers|Yes|
+
 
 </br>
 Everything is MIT Licensed because it is the only license I understand :D
