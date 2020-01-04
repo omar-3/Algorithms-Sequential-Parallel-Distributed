@@ -10,9 +10,4 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | 4 |python - c++ - bash|-|Naive Powers|Yes|3-1-2020|
 
 
-</br>
-Everything is MIT Licensed because it is the only license I understand :D
-</br></br>
-</br>
-</br>
 
