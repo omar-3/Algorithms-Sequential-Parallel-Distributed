@@ -13,9 +13,11 @@
 #include <iostream>
 using namespace std;
 
-unsigned int naive_power(int x, int n) {
-    int product = x;
-    for (int i = 1 ; i < n ; i++) {
+typedef long long int number;
+
+number naive_power(number x, number n) {
+    number product = x;
+    for (number i = 1 ; i < n ; i++) {
         product = product * x;
     }
     return product;
