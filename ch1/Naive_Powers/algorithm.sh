@@ -10,4 +10,4 @@ naive_power () {
     echo $product
 }
 
-naive_power "5" "3"
+naive_power "5" "3"     

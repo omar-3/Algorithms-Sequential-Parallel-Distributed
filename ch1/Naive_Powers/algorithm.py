@@ -12,15 +12,9 @@
 
 def naive_power(x,n):
     product = x
-    for i in range(1,n):
+    for _ in range(1,n):
         product *= x
     return product
 
 
-#####################################################################
-#####################################################################
 
-if __name__=="__main__":
-    number = int(input("Enter the number:\t"))
-    power = int(input("Enter the power:\t"))
-    print(naive_power(number,power))

@@ -9,6 +9,7 @@
     the power n is assumed "forced" to be integer if you want to
     float powers you need to use Taylor series expansion
 */
+
 #include <iostream>
 using namespace std;
 

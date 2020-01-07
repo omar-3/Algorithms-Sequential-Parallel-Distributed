@@ -1,7 +1,3 @@
-"""
-run the test with that command
->>> pytest
-"""
 from algorithm import naive_power
 
 def test1():
