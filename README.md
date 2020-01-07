@@ -7,7 +7,8 @@ This repo is just for myself to get better at coding so sometimes you will find 
 
 |Page #|Language|Other stuff|name|tested|date|
 |---|---|---|---|---|---|
-| 4 |python - c++ - bash|-|Naive Powers|Yes|3-1-2020|
+| 4 |python - c++ - bash|-|Naive Exponentiation|Yes|3-1-2020|
+| 5 |python - c++ - bash|-|Left-to-right Exponentiation|Yes|7-1-2020|
 
 
 
