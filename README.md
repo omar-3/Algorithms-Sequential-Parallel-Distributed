@@ -15,6 +15,8 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | 6 |python - c++ - bash|-|right-to-left exponentiation|Yes|8-1-2020|
 | 8 |python - c++ - bash|-|naive-gcd|Yes|11-1-2020|
 | 9 |python - c++ - bash|-|euclid-gcd|Yes|11-1-2020|
+| 11 |python - c++ - bash|-|babylonian-sqrt|Yes|11-1-2020|
+
 
 
 
