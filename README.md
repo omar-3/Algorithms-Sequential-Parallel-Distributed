@@ -10,7 +10,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 
 |Page #|Language|Other stuff|name|tested|date|
 |---|---|---|---|---|---|
-|Chapter 1|
+Chapter 1
 | 4 |python - c++ - bash|-|naive exponentiation|Yes|3-1-2020|
 | 5 |python - c++ - bash|-|left-to-right exponentiation|Yes|7-1-2020|
 | 6 |python - c++ - bash|-|right-to-left exponentiation|Yes|8-1-2020|
