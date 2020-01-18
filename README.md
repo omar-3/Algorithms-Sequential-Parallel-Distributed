@@ -22,6 +22,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | 13 |python |-|horner-eval|No|12-1-2020|
 |Chapter 2|
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
+|36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 
 
 

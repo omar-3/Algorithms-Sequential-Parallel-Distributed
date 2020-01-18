@@ -1,5 +1,5 @@
 using System;
-
+// I can't get generics to work
 public class algorithm 
 {
     public static int linear_search(int[] L, int X) 
