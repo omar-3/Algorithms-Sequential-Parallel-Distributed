@@ -7,6 +7,8 @@ This repo is just for myself to get better at coding so sometimes you will find 
 </br></br>
 <b>Note</b>: I used pytest for testing python, catch2 for testing c++, and as for bash scripts I intend to use shunit2 but meh ... as for the other languages it is highly unlikely that I would provide testing script for them but most of them have runnable examples
 </br></br>
+</br></br>
+<b>*</b> means that there is annoying bug, usually operator precedence and integer/float division issues
 
 
 
@@ -27,8 +29,6 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 |36*|python-c++-c#-bash|-|interpolation-search|no|18-1-2020|
 |---|---|---|---|---|---|
-</br></br>
-<b>*</b> means that there is annoying bug, usually operator precedence and integer/float division issues
 
 
 
