@@ -25,7 +25,9 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |Chapter 2|
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
-|36*|python-c++-c#-bash|-|interpolation-search|no|18-1-2020|</br></br>
+|36*|python-c++-c#-bash|-|interpolation-search|no|18-1-2020|
+|---|---|---|---|---|---|
+</br></br>
 <b>*</b> means that there is annoying bug, usually operator precedence and integer/float division issues
 
 
