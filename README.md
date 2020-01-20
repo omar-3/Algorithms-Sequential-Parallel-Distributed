@@ -1,14 +1,17 @@
 # Algorithms-Sequential-Parallel-Distributed
 
-This repository would contain every algorithm of that AMAZING book https://amzn.to/2OjKobm. I have read about 75% of it before, but just skimming and every chapter I would solve three or four problems. What I am going to do now is implementing every single algorithm in the book; solved example, exercises, or even just hinted about it in the book.
+This repository would contain every algorithm of that AMAZING book https://amzn.to/2OjKobm. I have read about 75% of it before, but just skimming and every chapter I would solve three or four problems. What I am going to do now is implementing every single algorithm in the book; solved example, exercises, or even just hinted about it in the book. I will do CLRS after that, and hopefully skeina too.
 </br>
 Implementation for algorithms in multiple language would be provided for every problem and as for Other stuff section, it would consist of just little bit of <b>chat or cool things </b> about the problem.</br></br>
-This repo is just for myself to get better at coding so sometimes you will find me using different libraries or test suites or weird languages or whatever. I'm starting this repo and I "think" that i know a bit python,some old c++ (pre-c++11),bash,java, a bit of javascript, and very little golang. Anyways I'm planning to learn more, just to make myself as much flexible as possible and hopefully to grow and have strong opinions about languages and debate with people on reddit and quora about how terrible java is :D. You may notice that I get a bit better "hopfully" as you go through examples and get a bit cleaner. I added the date column for self-loathing purposes.
+This repo is just for myself to get better at coding so sometimes you will find me using different libraries or test suites or weird languages or whatever. I'm starting this repo and I "think" that i know a bit python,some old c++ (pre-c++11),bash,java, a bit of javascript, and very little golang. Anyways I'm planning to learn more, just to make myself as much flexible as possible and to have strong opinion when choosing some language. You may notice that I get a bit better "hopfully" as you go through examples and get a bit cleaner. I added the date column for self-loathing purposes.
 </br></br>
-<b>Note</b>: I used pytest for testing python, catch2 for testing c++, and as for bash scripts I intend to use shunit2 but meh ... as for the other languages it is highly unlikely that I would provide testing script for them but most of them have runnable examples
+<b>Note</b>: I used pytest for testing python, catch2 for testing c++ but you need to push the header file by yourself, and as for bash scripts I intend to use shunit2 but meh ... as for the other languages it is highly unlikely that I would provide testing script for them but most of them have runnable examples
 </br></br>
+<b>Note</b>: I try to get as far as much from my comfortable zone in using certain languages, because to produce fairly complex algorithm in weird language YOU really need to have very clear understanding of the algorithm and its flow.
 </br></br>
-<b>*</b> means that there is annoying bug, usually operator precedence and integer/float division issues
+<b>Note</b>: my habit in reading important books is that I read each chapter multiple times, like 2-3 times to get things solidated in my mind. So If I missed something in chapter 2 and you see me working on chapter 6, that doesn't mean I won't get back. I usually read the book from the start every 2-3 chapters.
+</br></br>
+<b>*</b> means that there is annoying bug, usually operators precedence or integer/float division issues.
 
 
 
@@ -28,6 +31,8 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 |36*|python-c++-c#-bash-golang|will make one|interpolation-search|no|18-1-2020|
+|42-45|python-c++-c#-tcl-golang|will make one|array/list inserstion sort|yes|20-1-2020|
+
 
 
 
