@@ -31,7 +31,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 |36*|python-c++-c#-bash-golang|will make one|interpolation-search|no|18-1-2020|
-|42-45|python-c++-c#-tcl-golang|will make one|array/list inserstion sort|yes|20-1-2020|
+|42-45|python-c++-c#-golang|-|array/list inserstion sort|yes|20-1-2020|
 
 
 
