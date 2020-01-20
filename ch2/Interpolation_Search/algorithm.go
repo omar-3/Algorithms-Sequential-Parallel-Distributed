@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//apparently there is no generics in golang
+//no generics
 
 func interpolation_search(L []int, X int) int {
 	low := 0
