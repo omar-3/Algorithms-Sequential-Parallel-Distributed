@@ -13,6 +13,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 
 
 |**Page #**|**Language**|**Other stuff**|**name**|**tested**|**date**|
+|---|---|---|---|---|---|
 |**Chapter 1**||||||
 | 4 |python - c++ - bash|-|naive exponentiation|Yes|3-1-2020|
 | 5 |python - c++ - bash|-|left-to-right exponentiation|Yes|7-1-2020|
@@ -23,9 +24,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | 11 |python |will make one|bisection-root|No|12-1-2020|
 | 12 |python |-|polynomial-eval|No|12-1-2020|
 | 13 |python |-|horner-eval|No|12-1-2020|
-
 #hello
-
 |**Chapter 2**||||||
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
