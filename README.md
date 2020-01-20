@@ -24,8 +24,11 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | 11 |python |will make one|bisection-root|No|12-1-2020|
 | 12 |python |-|polynomial-eval|No|12-1-2020|
 | 13 |python |-|horner-eval|No|12-1-2020|
+|---|---|---|---|---|---|
 #hello
+|---|---|---|---|---|---|
 |**Chapter 2**||||||
+|---|---|---|---|---|---|
 |34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 |36*|python-c++-c#-bash-golang|will make one|interpolation-search|no|18-1-2020|
