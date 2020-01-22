@@ -32,7 +32,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
 |36*|python-c++-c#-bash-golang|will make one|interpolation-search|no|18-1-2020|
 |42-45|python-c++-c#-golang|-|array/list inserstion sort|yes|20-1-2020|
-|46|python-c++-c#-golang-bash|-|merge sort|yes|20-1-2020|
+|46|python-c++-c#-golang-bash|-|recursive-merge sort|yes|20-1-2020|
 
 
 
