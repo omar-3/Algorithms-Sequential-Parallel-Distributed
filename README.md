@@ -18,23 +18,23 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |**Page #**|**Language**|**Other stuff**|**name**|**tested**|**date**|
 |---|---|---|---|---|---|
 |**Chapter 1**|**Introduction**|**to**|**algorithms**|||
-| 4 |python - c++ - bash|-|naive exponentiation|Yes|3-1-2020|
-| 5 |python - c++ - bash|-|left-to-right exponentiation|Yes|7-1-2020|
-| 6 |python - c++ - bash|will make one|right-to-left exponentiation|Yes|8-1-2020|
-| 8 |python - c++ - bash|-|naive-gcd|Yes|11-1-2020|
-| 9 |python - c++ - bash|-|euclid-gcd|Yes|11-1-2020|
-| 11 |python - c++ - bash|-|babylonian-sqrt|Yes|11-1-2020|
-| 11 |python |will make one|bisection-root|No|12-1-2020|
-| 12 |python |-|polynomial-eval|No|12-1-2020|
-| 13 |python |-|horner-eval|No|12-1-2020|
+| 4 |python - c++ - bash|-|`naive exponentiation`|Yes|3-1-2020|
+| 5 |python - c++ - bash|-|`left-to-right exponentiation`|Yes|7-1-2020|
+| 6 |python - c++ - bash|will make one|`right-to-left exponentiation`|Yes|8-1-2020|
+| 8 |python - c++ - bash|-|`naive-gcd`|Yes|11-1-2020|
+| 9 |python - c++ - bash|-|`euclid-gcd`|Yes|11-1-2020|
+| 11 |python - c++ - bash|-|`babylonian-sqrt`|Yes|11-1-2020|
+| 11 |python |will make one|`bisection-root`|No|12-1-2020|
+| 12 |python |-|`polynomial-eval`|No|12-1-2020|
+| 13 |python |-|`horner-eval`|No|12-1-2020|
 |**Excercies**||||||
-| 1.9 |python |-|least-common-multiple|No|26-1-2020|
+| 1.9 |python |-|`least-common-multiple`|No|26-1-2020|
 |**Chapter 2**|**Design**|**and**|**Analysis**|**Fundamentals**||
-|34|python-c++-c#-bash|-|linear_search|yes|18-1-2020|
-|36|python-c++-c#-bash|-|binary_search|yes|18-1-2020|
-|36*|python-c++-c#-bash-golang|will make one|interpolation-search|no|18-1-2020|
-|42-45|python-c++-c#-golang|-|array/list inserstion sort|yes|20-1-2020|
-|46|python-c++-c#-golang-bash|-|recursive-merge sort|yes|20-1-2020|
+|34|python-c++-c#-bash|-|`linear_search`|yes|18-1-2020|
+|36|python-c++-c#-bash|-|`binary_search`|yes|18-1-2020|
+|36*|python-c++-c#-bash-golang|will make one|`interpolation-search`|no|18-1-2020|
+|42-45|python-c++-c#-golang|-|`array/list inserstion sort`|yes|20-1-2020|
+|46|python-c++-c#-golang-bash|-|`recursive-merge sort`|yes|20-1-2020|
 |**Excercies**||||||
 
 
