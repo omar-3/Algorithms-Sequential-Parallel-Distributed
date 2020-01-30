@@ -14,26 +14,26 @@ This repo is just for myself to get better at coding so sometimes you will find 
 <b>*</b> means that there is  usually operators precedence or integer/float division issues in some language. <b>but</b> I would never upload algorithm without at least python and C++ implementations working properly.
 
 
-|**Page #**|**Language**|**Other stuff**|**name**|**tested**|
+|<sup>**Page #**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**name**</sup>|<sup>**tested**</sup>|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
-| 4 |`python` - `c++` - `bash`|-|`naive exponentiation`|Yes|
-| 5 |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|Yes|
-| 6 |`python` - `c++` - `bash`|will make one|`right-to-left exponentiation`|Yes|
-| 8 |`python` - `c++` - `bash`|-|`naive-gcd`|Yes|
-| 9 |`python` - `c++` - `bash`|-|`euclid-gcd`|Yes|
-| 11 |`python` - `c++` - `bash`|-|`babylonian-sqrt`|Yes|
-| 11 |`python`|will make one|`bisection-root`|No|
-| 12 |`python`|-|`polynomial-eval`|No|
-| 13 |`python`|-|`horner-eval`|No|
+| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>Yes</sup>|
+| <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>Yes</sup>|
+| <sup>6</sup> |`python` - `c++` - `bash`|will make one|`right-to-left exponentiation`|<sup>Yes</sup>|
+| <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>Yes</sup>|
+| <sup>9</sup> |`python` - `c++` - `bash`|-|`euclid-gcd`|<sup>Yes</sup>|
+| <sup>11</sup> |`python` - `c++` - `bash`|-|`babylonian-sqrt`|<sup>Yes</sup>|
+| <sup>11</sup> |`python`|will make one|`bisection-root`|<sup>No</sup>|
+| <sup>12</sup> |`python`|-|`polynomial-eval`|<sup>No</sup>|
+| <sup>13</sup> |`python`|-|`horner-eval`|<sup>No</sup>|
 |<sup>**Excercies**</sup>|||||
-| 1.9 |`python`|-|`least-common-multiple`|No|
+| <sup>1.9</sup> |`python`|-|`least-common-multiple`|<sup>No</sup>|
 |<sup>**Chapter 2**</sup>|<sup>**Design**</sup>|<sup>**and**</sup>|<sup>**Analysis**</sup>|<sup>**Fundamentals**</sup>|
-|34|`python`-`c++`-`c#`-`bash`|-|`linear_search`|yes|
-|36|`python`-`c++`-`c#`-`bash`|-|`binary_search`|yes|
-|36*|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|no|
-|42-45|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|yes|
-|46|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|yes|
+|<sup>34</sup>|`python`-`c++`-`c#`-`bash`|-|`linear_search`|<sup>Yes</sup>|
+|<sup>36</sup>|`python`-`c++`-`c#`-`bash`|-|`binary_search`|<sup>Yes</sup>|
+|<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|<sup>No</sup>|
+|<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>Yes</sup>|
+|<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>Yes</sup>|
 |<sup>**Excercies**</sup>|||||
 
 
