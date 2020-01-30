@@ -14,7 +14,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 <b>*</b> means that there is  usually operators precedence or integer/float division issues in some language. <b>but</b> I would never upload algorithm without at least python and C++ implementations working properly.
 
 
-
+<sup>
 |**Page #**|**Language**|**Other stuff**|**name**|**tested**|**date**|
 |---|---|---|---|---|---|
 |**Chapter 1**|**Introduction**|**to**|**algorithms**|||
@@ -36,6 +36,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |42-45|python-c++-c#-golang|-|`array/list inserstion sort`|yes|20-1-2020|
 |46|python-c++-c#-golang-bash|-|`recursive-merge sort`|yes|20-1-2020|
 |**Excercies**||||||
+</sup>
 
 
 
