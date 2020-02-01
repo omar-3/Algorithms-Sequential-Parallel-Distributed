@@ -11,7 +11,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 </br></br>
 <b>Note[2]</b>: my habit in reading important books is that I read each chapter multiple times, like 2-3 times to get things solidated in my mind. So If I missed something in chapter 2 and you see me working on chapter 6, that doesn't mean I won't get back. I usually read the book from the start every 2-3 chapters.
 </br></br>
-<b>Note[3]</b>: Any question for any data-structure related stuff except for graphs would be in a single file, so for example I have only one file containing any algorithm for trees, etc.
+<b>Note[3]</b>: Data structures implementations wouuld be in a signle file with their "typical" methods. Otherwise, for anything cool or modifications over the typical methods, I will just import the implementation file and over-ride the method or add new one in the Algorithms section.
 </br></br>
 <b>*</b> means that there is  usually operators precedence or integer/float division issues in some language. <b>but</b> I would never upload algorithm without at least python and C++ implementations working properly.
 
