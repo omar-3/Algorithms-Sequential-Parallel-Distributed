@@ -47,7 +47,9 @@ This repo is just for myself to get better at coding so sometimes you will find 
 <b>Data Structures</b></br></br>
 
 |<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
-|---|---|---|---|---|
+|---|---|---|---|
+| <sup>2.10</sup> |`python`|`fibonacci-matrix`|<sup>yes</sup>|
+
 
 
 
