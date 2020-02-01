@@ -35,6 +35,12 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>Yes</sup>|
 |<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>Yes</sup>|
 |<sup>**Excercies**</sup>|||||
+| <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>Yes</sup>|
+| <sup>2.2</sup> |`python`|-|`palindrome`|<sup>Yes</sup>|
+| <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>Yes</sup>|
+| <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>Yes</sup>|
+| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>Yes</sup>|
+
 
 
 
