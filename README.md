@@ -5,7 +5,7 @@ This repository would contain every algorithm of that AMAZING book https://amzn.
 Implementation for algorithms in multiple language would be provided for every problem and as for Other stuff section, it would consist of just little bit of <b>chat or cool things </b> about the problem.</br></br>
 This repo is just for myself to get better at coding so sometimes you will find me using different libraries or test suites or weird languages or whatever. I'm starting this repo and I "think" that i know a bit python,some old c++ (pre-c++11),bash,java, a bit of javascript, and very little golang. Anyways I'm planning to learn more, just to make myself as much flexible as possible and to have strong opinion when choosing some language. You may notice that I get a bit better "hopfully" as you go through examples and get a bit cleaner.
 </br></br>
-<b>Note</b>: I used pytest for testing python, catch2 for testing c++ but you need to push the header file by yourself, and as for bash scripts I intend to use shunit2 but meh ... as for the other languages it is highly unlikely that I would provide testing script for them but most of them have runnable examples
+<b>Note[0]</b>: I used pytest for testing python, catch2 for testing c++ but you need to push the header file by yourself, and as for bash scripts I intend to use shunit2 but meh ... as for the other languages it is highly unlikely that I would provide testing script for them but most of them have runnable examples
 </br></br>
 <b>Note[1]</b>: I try to get as far as much from my comfortable zone in using certain languages, because to produce fairly complex algorithm in weird language YOU really need to have very clear understanding of the algorithm and its flow.
 </br></br>
