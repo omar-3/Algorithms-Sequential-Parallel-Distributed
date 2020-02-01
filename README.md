@@ -42,7 +42,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 | <sup>2.2</sup> |`python`|-|`palindrome`|<sup>yes</sup>|
 | <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>yes</sup>|
 | <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>yes</sup>|
-| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>yes</sup>|
+| <sup>2.10</sup> |`python`|will make one|`fibonacci-matrix`|<sup>yes</sup>|
 
 <b>Data Structures</b></br></br>
 
