@@ -11,63 +11,44 @@ This repo is just for myself to get better at coding so sometimes you will find 
 </br></br>
 <b>Note[2]</b>: my habit in reading important books is that I read each chapter multiple times, like 2-3 times to get things solidated in my mind. So If I missed something in chapter 2 and you see me working on chapter 6, that doesn't mean I won't get back. I usually read the book from the start every 2-3 chapters.
 </br></br>
+<b>Note[3]</b>: Any question for any data-structure related stuff except for graphs would be in a single file, so for example I have only one file containing any algorithm for trees, etc.
+</br></br>
 <b>*</b> means that there is  usually operators precedence or integer/float division issues in some language. <b>but</b> I would never upload algorithm without at least python and C++ implementations working properly.
 
-|<sup>**Page #**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**name**</sup>|<sup>**tested**</sup>|
+<b>Algorithms</b></br></br>
+
+|<sup>**Page #**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
-| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>Yes</sup>|
-| <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>Yes</sup>|
-| <sup>6</sup> |`python` - `c++` - `bash`|will make one|`right-to-left exponentiation`|<sup>Yes</sup>|
-| <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>Yes</sup>|
-| <sup>9</sup> |`python` - `c++` - `bash`|-|`euclid-gcd`|<sup>Yes</sup>|
-| <sup>11</sup> |`python` - `c++` - `bash`|-|`babylonian-sqrt`|<sup>Yes</sup>|
-| <sup>11</sup> |`python`|will make one|`bisection-root`|<sup>No</sup>|
-| <sup>12</sup> |`python`|-|`polynomial-eval`|<sup>No</sup>|
-| <sup>13</sup> |`python`|-|`horner-eval`|<sup>No</sup>|
+| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>yes</sup>|
+| <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>yes</sup>|
+| <sup>6</sup> |`python` - `c++` - `bash`|will make one|`right-to-left exponentiation`|<sup>yes</sup>|
+| <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>yes</sup>|
+| <sup>9</sup> |`python` - `c++` - `bash`|-|`euclid-gcd`|<sup>yes</sup>|
+| <sup>11</sup> |`python` - `c++` - `bash`|-|`babylonian-sqrt`|<sup>yes</sup>|
+| <sup>11</sup> |`python`|will make one|`bisection-root`|<sup>-</sup>|
+| <sup>12</sup> |`python`|-|`polynomial-eval`|<sup>-</sup>|
+| <sup>13</sup> |`python`|-|`horner-eval`|<sup>-</sup>|
 |<sup>**Excercies**</sup>|||||
-| <sup>1.9</sup> |`python`|-|`least-common-multiple`|<sup>No</sup>|
+| <sup>1.9</sup> |`python`|-|`least-common-multiple`|<sup>-</sup>|
 |<sup>**Chapter 2**</sup>|<sup>**Design**</sup>|<sup>**and**</sup>|<sup>**Analysis**</sup>|<sup>**Fundamentals**</sup>|
-|<sup>34</sup>|`python`-`c++`-`c#`-`bash`|-|`linear_search`|<sup>Yes</sup>|
-|<sup>36</sup>|`python`-`c++`-`c#`-`bash`|-|`binary_search`|<sup>Yes</sup>|
-|<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|<sup>No</sup>|
-|<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>Yes</sup>|
-|<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>Yes</sup>|
+|<sup>34</sup>|`python`-`c++`-`c#`-`bash`|-|`linear_search`|<sup>yes</sup>|
+|<sup>36</sup>|`python`-`c++`-`c#`-`bash`|-|`binary_search`|<sup>yes</sup>|
+|<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|<sup>-</sup>|
+|<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>yes</sup>|
+|<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>yes</sup>|
 |<sup>**Excercies**</sup>|||||
-| <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>Yes</sup>|
-| <sup>2.2</sup> |`python`|-|`palindrome`|<sup>Yes</sup>|
-| <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>Yes</sup>|
-| <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>Yes</sup>|
-| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>Yes</sup>|
+| <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>yes</sup>|
+| <sup>2.2</sup> |`python`|-|`palindrome`|<sup>yes</sup>|
+| <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>yes</sup>|
+| <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>yes</sup>|
+| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>yes</sup>|
 
-ssssssss</br></br>
+<b>Data Structures</b></br></br>
 
-|<sup>**Page #**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**name**</sup>|<sup>**tested**</sup>|
+|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|---|
-|<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
-| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>Yes</sup>|
-| <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>Yes</sup>|
-| <sup>6</sup> |`python` - `c++` - `bash`|will make one|`right-to-left exponentiation`|<sup>Yes</sup>|
-| <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>Yes</sup>|
-| <sup>9</sup> |`python` - `c++` - `bash`|-|`euclid-gcd`|<sup>Yes</sup>|
-| <sup>11</sup> |`python` - `c++` - `bash`|-|`babylonian-sqrt`|<sup>Yes</sup>|
-| <sup>11</sup> |`python`|will make one|`bisection-root`|<sup>No</sup>|
-| <sup>12</sup> |`python`|-|`polynomial-eval`|<sup>No</sup>|
-| <sup>13</sup> |`python`|-|`horner-eval`|<sup>No</sup>|
-|<sup>**Excercies**</sup>|||||
-| <sup>1.9</sup> |`python`|-|`least-common-multiple`|<sup>No</sup>|
-|<sup>**Chapter 2**</sup>|<sup>**Design**</sup>|<sup>**and**</sup>|<sup>**Analysis**</sup>|<sup>**Fundamentals**</sup>|
-|<sup>34</sup>|`python`-`c++`-`c#`-`bash`|-|`linear_search`|<sup>Yes</sup>|
-|<sup>36</sup>|`python`-`c++`-`c#`-`bash`|-|`binary_search`|<sup>Yes</sup>|
-|<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|<sup>No</sup>|
-|<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>Yes</sup>|
-|<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>Yes</sup>|
-|<sup>**Excercies**</sup>|||||
-| <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>Yes</sup>|
-| <sup>2.2</sup> |`python`|-|`palindrome`|<sup>Yes</sup>|
-| <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>Yes</sup>|
-| <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>Yes</sup>|
-| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>Yes</sup>|
+
 
 
 
