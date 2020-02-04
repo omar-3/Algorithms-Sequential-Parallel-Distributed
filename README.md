@@ -35,7 +35,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 |<sup>34</sup>|`python`-`c++`-`c#`-`bash`|-|`linear_search`|<sup>yes</sup>|
 |<sup>36</sup>|`python`-`c++`-`c#`-`bash`|-|`binary_search`|<sup>yes</sup>|
 |<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|will make one|`interpolation-search`|<sup>-</sup>|
-|<sup>42-45</sup>|`python`-`c++`-`c#`-`golang`|-|`array/list inserstion sort`|<sup>yes</sup>|
+|<sup>42-45</sup>|`python`-`c++`-`c#`-`bassh`-`golang`|-|`array/list inserstion sort`|<sup>yes</sup>|
 |<sup>46</sup>|`python`-`c++`-`c#`-`golang`-`bash`|-|`recursive-merge sort`|<sup>yes</sup>|
 |<sup>**Excercies**</sup>|||||
 | <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>yes</sup>|
