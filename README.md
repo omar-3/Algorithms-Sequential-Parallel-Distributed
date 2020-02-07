@@ -17,7 +17,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 
 <b>Algorithms</b></br></br>
 
-|<sup>**Page #**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
+|**Page #**|**Language**|**Other stuff**|**Name**|**Test**|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
 | <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>yes</sup>|
@@ -52,7 +52,7 @@ This repo is just for myself to get better at coding so sometimes you will find 
 
 |<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|
-| <sup>2.10</sup> |`python`|`fibonacci-matrix`|<sup>yes</sup>|
+| - |-|-|-|
 
 
 
