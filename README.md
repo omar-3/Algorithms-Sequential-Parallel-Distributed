@@ -1,15 +1,15 @@
 # Algorithms-Sequential-Parallel-Distributed
 
-This repository is meant to be a **comprehensive** solution manual/notes/implementations for https://amzn.to/2OjKobm. My intention is to implement all the algorithms explained in the book or even have been hinted at in the book.</br>
-The motivation behind that, because while I was studying from that book and after a bit of searching for ambigious stuff in it, I couldn't find any solutions or anything like CLRS or skiena books solutions and articles floating the internet, despite being much better and focused in my opinion.</br></br>
+This repository is meant to be a very **comprehensive** solution manual/notes/implementations for https://amzn.to/2OjKobm. My intention is to implement all the algorithms explained in the book or even have been hinted at.</br>
+The motivation behind that, because while I was studying from that book and after a bit of searching for ambigious stuff in it, I couldn't find any solutions or anything like CLRS or skiena books solutions and articles floating the internet, despite being much better and focused in my opinion.</br>
 
 ----
 
-The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br> If I going to do something cool in any algorithm, see the `python` and `c++` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages.</br></br>
+The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python` and `c++` and `java` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, except for `bash` to some extent. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you find its code.</br></br>
 
 ----
 
-<b>Algorithms</b></br></br>
+<b>Algorithms</b></br>
 
 |**Page #**|**Language**|**Other stuff**|**Name**|**Test**|
 |---|---|---|---|---|
