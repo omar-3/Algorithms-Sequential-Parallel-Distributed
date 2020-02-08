@@ -5,13 +5,13 @@ The motivation behind that, because while I was studying from that book and afte
 
 ----
 
-The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python` and `c++` and `java` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, except for `bash` to some extent. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you will find it.</br></br>
+The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python`, `c++`, `java`, or `bash` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, `bash` is like that also but I have written multiple not-so-trivial stuff with it before. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you will find it.</br></br>
 
 ----
 
 <b>Algorithms</b></br>
 
-|**Page #**|**Language**|**Other stuff**|**Name**|**Test**|
+|**Page #**|**Language**|**Note**|**Name**|**Test**|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
 | <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>yes</sup>|
@@ -39,7 +39,7 @@ The description is very much explaining how I will do things here, but there are
 | <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>yes</sup>|
 |<sup>**Chapter 3**</sup>|<sup>**Mathematical**</sup>|<sup>**tools**</sup>|<sup>**for**</sup>|<sup>**Algorithms**</sup>|
 |<sup>**Excercies**</sup>|||||
-| <sup>3.49</sup> |`python`-`c++`-`bash`-`golang`|-|`generate-permutations`|<sup>yes</sup>|
+| <sup>3.49</sup> |`python`-`c++`-`c#`-`bash`-`golang`|in ch2 folder|`generate-permutations`|<sup>yes</sup>|
 
 
 <b>Data Structures</b></br></br>
@@ -47,16 +47,3 @@ The description is very much explaining how I will do things here, but there are
 |<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|
 | - |-|-|-|
-
-
-
-
-
-
-
-
-
-
-
-
-
