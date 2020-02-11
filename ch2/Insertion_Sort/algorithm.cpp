@@ -11,7 +11,7 @@ std::vector<T> insertion_sort(std::vector<T> List) {
         iterator firstElement = it-1;
         while (firstElement>=List.begin() && *firstElement > *it) {         // if the and in cpp is not short-circuited, would be trouble
             firstElement--;                                                 // because at the first Element iterator goes one step further than List.begin()
-        }                                                                   
+        }
         firstElement++;
         // we just do right rotation to the mis-sorted sub-vector
         iterator lastElement = it + 1;
@@ -36,8 +36,9 @@ std::vector<T> insertion_sort(std::vector<T> List) {
 
 
 int main() {
-    std::vector<int> List = {20,231,12,1,43,123,1412,2134,123,1230,1112,134,1233,112,115};
+    std::vector<int> List = {20,231,12,1,43,123,1412,-2134,123,1230,-1112,134,-1233,-112,115};
     std::vector<int> sortedList = insertion_sort(List);
+    std::cout<< "This is the first list" << std::endl;
     for(int i = 0 ; i<sortedList.size(); i++) {
         std::cout<<sortedList[i]<<"  ";
     }
@@ -45,6 +46,7 @@ int main() {
 
     std::vector<int> List2 = {1,2,3,1,1,2,1,3,1,2,7,6,4};
     std::vector<int> sortedList2 = insertion_sort(List2);
+    std::cout<< "This is a second list" << std::endl;
     for(int i = 0 ; i<sortedList2.size(); i++) {
         std::cout<<sortedList2[i]<<"  ";
     }

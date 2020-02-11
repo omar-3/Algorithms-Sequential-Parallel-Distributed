@@ -18,6 +18,7 @@ merge() {
     done
 
     while [[ first -le $3 ]]
+	   
     do
         temp+=$(( a[first] ))
         first=$(( first+1 ))
@@ -52,6 +53,6 @@ split() {
 
 
 a=("1" "234" "5" "4" "2" "10")
-echo "${a[@]}"
+
 split a "0" "$((${#a[@]}-1))"   # thanks to parameter exapnsion
-echo "${a[@]}"
+

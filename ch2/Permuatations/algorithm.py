@@ -12,6 +12,6 @@ def generate_permutations(L,i=None,n=None):
 			L[i],L[j]=L[j],L[i]
 
 
-L=[1,2,3,4,5]
+L=["a","b","c","d","e"]
 generate_permutations(L)
 

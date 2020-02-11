@@ -40,6 +40,8 @@ The description is very much explaining how I will do things here, but there are
 |<sup>**Chapter 3**</sup>|<sup>**Mathematical**</sup>|<sup>**tools**</sup>|<sup>**for**</sup>|<sup>**Algorithms**</sup>|
 |<sup>**Excercies**</sup>|||||
 | <sup>3.49</sup> |`python`-`c++`-`c#`-`bash`-`golang`|in ch2 folder|`generate-permutations`|<sup>yes</sup>|
+|<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
+||||||
 
 
 <b>Data Structures</b></br></br>
