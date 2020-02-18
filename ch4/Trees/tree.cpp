@@ -1,48 +1,51 @@
-//#pragma once
+#pragma once
 #include <memory>
 #include <stack>
 #include <iostream>
+
+#define COUNT 10
 
 template <class T>
 class Tree {
 	private:
 		class Node {
 			public:
-				std::unique_ptr<Node> left;
-				std::unique_ptr<Node> right;
+				Node* left;
+				Node* right;
 				T value;
 				Node (T value) {
 					this->value = value;
 				}
 			};
 	public:
-		std::unique_ptr<Node> root;
+		Node* root;
 		int V;
 		Tree(T&& rootValue) {
-			std::unique_ptr<Node> node(new Node(rootValue));
+			Node* node(new Node(rootValue));
 			this->root = std::move(node);
 			this->V = 1;
 		}
-		Node<T>* minValueNode(Node<T>* node) {
-			Node<T>* current = node;
+		Node* minValueNode(Node* node) {
+			Node* current = node;
 			while (current && current->left != nullptr) {
 				current = current->left;
 			}
 			return current; 
 		}
+
 		void insert(const T&& value) {
 
 			Node* currentNode, *fatherNode;
-			currentNode = root.get();
+			currentNode = root;
 			fatherNode = nullptr;
-			std::unique_ptr<Node> newNode(new Node(value));
+			Node* newNode(new Node(value));
 			
 			while (currentNode != nullptr) {
 				fatherNode = currentNode;
 				if (value < currentNode->value) {
-					currentNode = currentNode->left.get();
+					currentNode = currentNode->left;
 				} else if (value > currentNode->value) {
-					currentNode = currentNode->right.get();
+					currentNode = currentNode->right;
 				} else { 
 					std::cout << "The Value " << value << " cannot be inserted multiple times" << std::endl; 
 					return; 
@@ -54,34 +57,65 @@ class Tree {
 			} else {
 				fatherNode->right = std::move(newNode);
 			}
-
-			this->V = this->V + 1;
+			(this->V)++;
 		}
 
-		Node<T>* del(Node<T>* root, T key) {
-			if (root == nullptr) { return root; }
-			if (key < root->key) { root->left = del(root->left.get(), key); }
-			else { root->right = del(root->right.get(), key); }
+		Node* del(Node* root, T value) {
+			if (root == nullptr) { 
+				return root;
+			} else if (value < root->value) {
+				root->left = del(root->left, value);
+			} else if (value > root->value) {
+				root->right = del(root->right, value);
+			}
+			else
+			{
+				if (root->left == nullptr && root->right == nullptr) {
+					delete root;
+					root = nullptr;
+					return root;
+				}
+				else if (root->left == nullptr) {
+					Node* temp = root;
+					root = root->right;
+					delete temp;
+				}
+				else if (root->right == nullptr) {
+					Node* temp = root;
+					root = root->left;
+					delete temp;
+				}
+				else
+				{
+					Node* temp = minValueNode(root->right);		// this is a leaf node
+					root->value = temp->value;
+					root->right = del(root->right, temp->value);
+				}
+			}
+			return root;
 			
 		}
 
 
 		void inorder(Node* node) {
 			if (node == nullptr) { return; }
-			inorder(node->left.get());
+			inorder(node->left);
 			std::cout << node->value << std::endl;
-			inorder(node->right.get());
+			inorder(node->right);
+		}
+
+		void print2D(Node* root, int space) {
+			if (root == nullptr) return;
+			space += COUNT;
+			print2D(root->right, space);
+			std::cout << std::endl;
+			for (int i = COUNT; i < space; i++) std::cout << " ";
+			std::cout << root->value << std::endl;
+			print2D(root->left, space);
+		}
+
+		void Print(Node* root) {
+			print2D(root, 0);
 		}
 };
 
-int main() {
-	Tree<int> BST(50);
-	BST.insert(100);
-	BST.insert(120);
-	BST.insert(10);
-	BST.insert(38);
-	BST.insert(80);
-	BST.insert(1002);
-	BST.insert(120);
-	BST.inorder(BST.root.get());
-}
