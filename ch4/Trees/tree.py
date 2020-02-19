@@ -55,19 +55,20 @@ class tree:
                 root = temp
                 root.right = delete(root.right, temp.value)
         return root
+    
+    def Print(self,root):
+        self.print2D(root, 0)
 
-    def print2D(root, space):
+    def print2D(self,root, space):
         if root is None:
             return
         space+=10
-        print2D(root.right, space)
+        self.print2D(root.right, space)
         print("")
         for i in range(10, space):
-            print("")
-        print2D(root.left, space)
+            print(" ",end="")
+        print(root.value)
+        self.print2D(root.left, space)
     
-    def Print(root):
-        print2D(root, 0)
+    
 
-        
-        
