@@ -33,4 +33,41 @@ class tree:
             fatherNode.right = newNode
         self.V+=1
     def delete(self, root, value):
+        if root is None: return root
+        elif root.value > value:
+            root.left = delete(root.left, value)
+        elif root.value < value:
+            root.right = delete(root.right, value)
+        else:
+            if root.left is None and root.right is None:
+                root = None
+                return root
+            elif root.left is None:
+                temp = root
+                root = root.right
+                temp = None
+            elif root.right is None:
+                temp = root
+                root = root.left
+                temp = None
+            else:
+                temp = self.minValueNode(root.right)
+                root = temp
+                root.right = delete(root.right, temp.value)
+        return root
+
+    def print2D(root, space):
+        if root is None:
+            return
+        space+=10
+        print2D(root.right, space)
+        print("")
+        for i in range(10, space):
+            print("")
+        print2D(root.left, space)
+    
+    def Print(root):
+        print2D(root, 0)
+
+        
         
