@@ -3,7 +3,7 @@
 #define COUNT 10
 
 template <class T>
-class Tree {
+class tree {
 	private:
 		class Node {
 			public:
@@ -17,7 +17,7 @@ class Tree {
 	public:
 		Node* root;
 		int V;
-		Tree(T&& rootValue) {
+		tree(T&& rootValue) {
 			Node* node(new Node(rootValue));
 			this->root = std::move(node);
 			this->V = 1;
@@ -35,7 +35,7 @@ class Tree {
 			Node* currentNode, *fatherNode;
 			currentNode = root;
 			fatherNode = nullptr;
-			Node* newNode(new Node(value));
+			Node* newNode = new Node(value);
 			
 			while (currentNode != nullptr) {
 				fatherNode = currentNode;
@@ -91,6 +91,16 @@ class Tree {
 			}
 			return root;
 			
+		}
+
+		void print2D(Node* root, int space) {
+			if (root == nullptr) return;
+			space += COUNT;
+			print2D(root->right, space);
+			std::cout << std::endl;
+			for (int i = COUNT; i < space; i++) std::cout << " ";
+			std::cout << root->value << std::endl;
+			print2D(root->left, space);
 		}
 
 		void Print(Node* root) {
