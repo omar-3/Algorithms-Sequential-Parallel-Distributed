@@ -1,7 +1,4 @@
 #pragma once
-#include <memory>
-#include <stack>
-#include <iostream>
 
 #define COUNT 10
 
@@ -94,24 +91,6 @@ class Tree {
 			}
 			return root;
 			
-		}
-
-
-		void inorder(Node* node) {
-			if (node == nullptr) { return; }
-			inorder(node->left);
-			std::cout << node->value << std::endl;
-			inorder(node->right);
-		}
-
-		void print2D(Node* root, int space) {
-			if (root == nullptr) return;
-			space += COUNT;
-			print2D(root->right, space);
-			std::cout << std::endl;
-			for (int i = COUNT; i < space; i++) std::cout << " ";
-			std::cout << root->value << std::endl;
-			print2D(root->left, space);
 		}
 
 		void Print(Node* root) {
