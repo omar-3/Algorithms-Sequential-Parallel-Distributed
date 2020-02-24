@@ -14,7 +14,7 @@ The description is very much explaining how I will do things here, but there are
 |**Page #**|**Language**|**Note**|**Name**|**Test**|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
-| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>yes</sup>|
+| <sup>4</sup> |`python` - `c++` - `bash`|-|[`naive exponentiation`](ch1/Naive_Powers)|<sup>yes</sup>|
 | <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>yes</sup>|
 | <sup>6</sup> |`python` - `c++` - `bash`|-|`right-to-left exponentiation`|<sup>yes</sup>|
 | <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>yes</sup>|
