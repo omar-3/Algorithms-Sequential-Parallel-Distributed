@@ -8,6 +8,8 @@ The motivation behind that, because while I was studying from that book and afte
 The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python`, `c++`, `java`, or `bash` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, `bash` is like that also but I have written multiple not-so-trivial stuff with it before. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you will find it.</br></br>
 
 ----
+</br>
+Pressing on the algorithm link would take you to a certain language implementation, which in my opinion is most commented and educational than the rest of implementation for the same algorithm, maybe I left cool fact or did something cool in the implementation.</br>
 
 <b>Algorithms</b></br>
 
