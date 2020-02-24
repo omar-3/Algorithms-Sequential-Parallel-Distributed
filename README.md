@@ -8,13 +8,15 @@ The motivation behind that, because while I was studying from that book and afte
 The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python`, `c++`, `java`, or `bash` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, `bash` is like that also but I have written multiple not-so-trivial stuff with it before. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you will find it.</br></br>
 
 ----
+</br>
+Clicking on the algorithm link in the table below, would take you to a certain language implementation, which in my opinion is most commented and educational than the rest of implementation for the same algorithm, maybe I left cool fact or did something cool in the implementation.</br></br></br>
 
 <b>Algorithms</b></br>
 
 |**Page #**|**Language**|**Note**|**Name**|**Test**|
 |---|---|---|---|---|
 |<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
-| <sup>4</sup> |`python` - `c++` - `bash`|-|`naive exponentiation`|<sup>yes</sup>|
+| <sup>4</sup> |`python` - `c++` - `bash`|-|[`naive exponentiation`](ch1/Naive_Powers)|<sup>yes</sup>|
 | <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>yes</sup>|
 | <sup>6</sup> |`python` - `c++` - `bash`|-|`right-to-left exponentiation`|<sup>yes</sup>|
 | <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>yes</sup>|
@@ -43,9 +45,10 @@ The description is very much explaining how I will do things here, but there are
 |<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
 ||||||
 
+</br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
 
 <b>Data Structures</b></br></br>
 
-|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
+|<sup>**Data Structure**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|
-| - |-|-|-|
+|-|-|-|-|
