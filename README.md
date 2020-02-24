@@ -9,7 +9,7 @@ The description is very much explaining how I will do things here, but there are
 
 ----
 </br>
-Pressing on the algorithm link would take you to a certain language implementation, which in my opinion is most commented and educational than the rest of implementation for the same algorithm, maybe I left cool fact or did something cool in the implementation.</br>
+Clicking on the algorithm link in the table below, would take you to a certain language implementation, which in my opinion is most commented and educational than the rest of implementation for the same algorithm, maybe I left cool fact or did something cool in the implementation.</br></br></br>
 
 <b>Algorithms</b></br>
 
