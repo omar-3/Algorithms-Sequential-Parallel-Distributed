@@ -47,6 +47,6 @@ The description is very much explaining how I will do things here, but there are
 
 <b>Data Structures</b></br></br>
 
-|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
-|---|---|---|---|
-| - |-|-|-|
+|<sup>**Data Structure**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Name**</sup>|<sup>**Test**</sup>|
+|---|---|---|---|---|
+|-|-|-|-|-|
