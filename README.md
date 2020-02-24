@@ -43,6 +43,7 @@ The description is very much explaining how I will do things here, but there are
 |<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
 ||||||
 
+</br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
 
 <b>Data Structures</b></br></br>
 
