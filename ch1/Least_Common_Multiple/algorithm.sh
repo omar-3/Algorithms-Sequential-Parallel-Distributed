@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 least_common_multiple () {
     a=$1
     b=$2
