@@ -2,8 +2,7 @@
 InsertionSubSort() {
     local h=$1
     # echo $h
-    for (( i=h; i<${#a[@]}; i++ ))
-    do
+    for (( i=h; i<${#a[@]}; i++ )); do
         local current=${a[$i]}
         local position=$(( i - h ))
         while [[ $position -ge 0 && ${a[$position]} -gt $current ]]
@@ -16,12 +15,10 @@ InsertionSubSort() {
 }
 
 ShellSort() {
-    for (( i=0; i< 6; i++ ))
-    do
-        InsertionSubSort ${k[$i]}
-        echo "lol"
+    for (( n=0; n< 6; n++ )); do
+        InsertionSubSort ${k[$n]}
     done
-    # echo ${a[@]}
+    echo ${a[@]}
 }
 
 a=(5 4 3 2 1 10 13 19 0 0 4 21 43 71 32 1 -9)
