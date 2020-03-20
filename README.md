@@ -45,7 +45,7 @@ Clicking on the algorithm link in the table below, would take you to a certain l
 |<sup>**Excercies**</sup>|||||
 | <sup>3.49</sup> |`python`-`c++`-`c#`-`bash`-`golang`|in ch2 folder|`generate-permutations`|<sup>yes</sup>|
 |<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
-|||`data structure`|||
+|`data structures`|`data structures`|`data structures`|`data structures`|`data structures`|
 |<sup>**Chapter 5**</sup>|<sup>**More**</sup>|<sup>**on**</sup>|<sup>**Sorting**</sup>|<sup>**Algorithms**</sup>|
 | <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`||`Shell Sort`|<sup>-</sup>|
 ||||||
