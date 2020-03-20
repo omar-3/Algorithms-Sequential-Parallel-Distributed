@@ -14,47 +14,46 @@ The description is very much explaining how I will do things here, but there are
 Clicking on the algorithm link in the table below, would take you to a certain language implementation, which in my opinion is most commented and educational than the rest of implementation for the same algorithm, maybe I left cool fact or did something cool in the implementation.</br></br></br>
 
 <b>Algorithms</b></br>
-<sup>
+
 |**Page #**|**Language**|**Note**|**Name**|**Test**|
 |---|---|---|---|---|
-|**Chapter 1**|**Introduction**|**to**|**Algorithms**||
-| 4 |`python` - `c++` - `bash`|-|[`naive exponentiation`](ch1/Naive_Powers)|yes|
-| 5 |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|yes|
-| 6 |`python` - `c++` - `bash`|-|`right-to-left exponentiation`|yes|
-| 8 |`python` - `c++` - `bash`|-|`naive-gcd`|yes|
-| 9 |`python` - `c++` - `bash`|-|`euclid-gcd`|yes|
-| 11 |`python` - `c++` - `bash`|-|`babylonian-sqrt`|yes|
-| 11 |`python`|-|`bisection-root`|-|
-| 12 |`python`|-|`polynomial-eval`|-|
-| 13 |`python`|-|`horner-eval`|-|
-|**Excercies**|||||
-| 1.9 |`python`|-|`least-common-multiple`|-|
-|**Chapter 2**|**Design**|**and**|**Analysis**|**Fundamentals**|
-|34|`python`-`c++`-`c#`-`bash`-`golang`|-|`linear_search`|yes|
-|36|`python`-`c++`-`c#`-`bash`-`golang`|-|`binary_search`|yes|
-|36*|`python`-`c++`-`c#`-`bash`-`golang`|-|`interpolation-search`|-|
-|42-45|`python`-`c++`-`c#`-`bash`-`golang`|-|`array/list inserstion sort`|yes|
-|46|`python`-`c++`-`c#`-`bash`-`golang`|-|`recursive-merge sort`|yes|
-|**Excercies**|||||
-| 2.1 |`python`|-|`max-recursive`|yes|
-| 2.2 |`python`|-|`palindrome`|yes|
-| 2.3.a |`python`-`c++`|-|`decimal-to-binary`|yes|
-| 2.3.b |`python`|-|`binary-to-decimal`|yes|
-| 2.10 |`python`|-|`fibonacci-matrix`|yes|
-|**Chapter 3**|**Mathematical**|**tools**|**for**|**Algorithms**|
-|**Excercies**|||||
-| 3.49 |`python`-`c++`-`c#`-`bash`-`golang`|in ch2 folder|`generate-permutations`|yes|
-|**Chapter 4**|**Trees**|**and**|**Applications**|**to Algorithms**|
+|<sup>**Chapter 1**</sup>|<sup>**Introduction**</sup>|<sup>**to**</sup>|<sup>**Algorithms**</sup>||
+| <sup>4</sup> |`python` - `c++` - `bash`|-|[`naive exponentiation`](ch1/Naive_Powers)|<sup>yes</sup>|
+| <sup>5</sup> |`python` - `c++` - `bash`|-|`left-to-right exponentiation`|<sup>yes</sup>|
+| <sup>6</sup> |`python` - `c++` - `bash`|-|`right-to-left exponentiation`|<sup>yes</sup>|
+| <sup>8</sup> |`python` - `c++` - `bash`|-|`naive-gcd`|<sup>yes</sup>|
+| <sup>9</sup> |`python` - `c++` - `bash`|-|`euclid-gcd`|<sup>yes</sup>|
+| <sup>11</sup> |`python` - `c++` - `bash`|-|`babylonian-sqrt`|<sup>yes</sup>|
+| <sup>11</sup> |`python`|-|`bisection-root`|<sup>-</sup>|
+| <sup>12</sup> |`python`|-|`polynomial-eval`|<sup>-</sup>|
+| <sup>13</sup> |`python`|-|`horner-eval`|<sup>-</sup>|
+|<sup>**Excercies**</sup>|||||
+| <sup>1.9</sup> |`python`|-|`least-common-multiple`|<sup>-</sup>|
+|<sup>**Chapter 2**</sup>|<sup>**Design**</sup>|<sup>**and**</sup>|<sup>**Analysis**</sup>|<sup>**Fundamentals**</sup>|
+|<sup>34</sup>|`python`-`c++`-`c#`-`bash`-`golang`|-|`linear_search`|<sup>yes</sup>|
+|<sup>36</sup>|`python`-`c++`-`c#`-`bash`-`golang`|-|`binary_search`|<sup>yes</sup>|
+|<sup>36*</sup>|`python`-`c++`-`c#`-`bash`-`golang`|-|`interpolation-search`|<sup>-</sup>|
+|<sup>42-45</sup>|`python`-`c++`-`c#`-`bash`-`golang`|-|`array/list inserstion sort`|<sup>yes</sup>|
+|<sup>46</sup>|`python`-`c++`-`c#`-`bash`-`golang`|-|`recursive-merge sort`|<sup>yes</sup>|
+|<sup>**Excercies**</sup>|||||
+| <sup>2.1</sup> |`python`|-|`max-recursive`|<sup>yes</sup>|
+| <sup>2.2</sup> |`python`|-|`palindrome`|<sup>yes</sup>|
+| <sup>2.3.a</sup> |`python`-`c++`|-|`decimal-to-binary`|<sup>yes</sup>|
+| <sup>2.3.b</sup> |`python`|-|`binary-to-decimal`|<sup>yes</sup>|
+| <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>yes</sup>|
+|<sup>**Chapter 3**</sup>|<sup>**Mathematical**</sup>|<sup>**tools**</sup>|<sup>**for**</sup>|<sup>**Algorithms**</sup>|
+|<sup>**Excercies**</sup>|||||
+| <sup>3.49</sup> |<sup>`python`-`c++`-`c#`-`bash`-`golang`</sup>|in ch2 folder|`generate-permutations`|<sup>yes</sup>|
+|<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
 |`data structures`|`data structures`|`data structures`|`data structures`|`data structures`|
-|**Chapter 5**|**More**|**on**|**Sorting**|**Algorithms**|
-| 168 |`python`-`c++`-`c#`-`bash`-`golang`-`java`||`Shell Sort`|-|
+|<sup>**Chapter 5**</sup>|<sup>**More**</sup>|<sup>**on**</sup>|<sup>**Sorting**</sup>|<sup>**Algorithms**</sup>|
+| <sup>168</sup> |<sup>`python`-`c++`-`c#`-`bash`-`golang`-`java`</sup>||<sup>`Shell Sort`</sup>|<sup>-</sup>|
 ||||||
-</sup>
 
 </br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
 
 <b>Data Structures</b></br></br>
 
-|**Data Structure**|**Language**|**Other stuff**|**Test**|
+|<sup>**Data Structure**</sup>|<sup>**Language**</sup>|<sup>**Other stuff**</sup>|<sup>**Test**</sup>|
 |---|---|---|---|
 |-|-|-|-|
