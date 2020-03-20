@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Comparator;
 
 class algorithm {
     public static <T extends Comparable<T>> void InsertionSubSort(T[] list, int k) {
