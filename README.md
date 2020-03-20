@@ -43,11 +43,11 @@ Clicking on the algorithm link in the table below, would take you to a certain l
 | <sup>2.10</sup> |`python`|-|`fibonacci-matrix`|<sup>yes</sup>|
 |<sup>**Chapter 3**</sup>|<sup>**Mathematical**</sup>|<sup>**tools**</sup>|<sup>**for**</sup>|<sup>**Algorithms**</sup>|
 |<sup>**Excercies**</sup>|||||
-| <sup>3.49</sup> |`python`-`c++`-`c#`-`bash`-`golang`|in ch2 folder|`generate-permutations`|<sup>yes</sup>|
+| <sup>3.49</sup> |`python`-`c++`-`c#`-`bash`-`golang`|-|`generate-permutations`|<sup>yes</sup>|
 |<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
 |<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|
 |<sup>**Chapter 5**</sup>|<sup>**More**</sup>|<sup>**on**</sup>|<sup>**Sorting**</sup>|<sup>**Algorithms**</sup>|
-| <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`||`Shell Sort`|<sup>-</sup>|
+| <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|`Shell Sort`|<sup>-</sup>|
 ||||||
 
 </br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
