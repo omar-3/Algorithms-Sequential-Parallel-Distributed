@@ -1,8 +1,8 @@
 # Algorithms-Sequential-Parallel-Distributed
 
-**I'm in a middle of a hard semester now, but I didn't abandon the project**
-</br><b>CURRENT STATE</b>14-4-2020</br>
-I'm doing the chapters 7/8/9/10 which are on dynamic programming and greedy programming and state-space search and that stuff.The plan is to provide the solution for these topics in this textbook and CLRS and skiena as this would be an excellent exercise for me.
+**I'm in a middle of a hard semester now, but I didn't abandon the project**</br></br>
+</br><b>CURRENT STATE</b></br><sup>14-4-2020</sup></br>
+I'm doing the chapters 7/8/9/10 which are on dynamic programming and greedy programming and state-space search and that stuff.The plan is to provide the solution for these topics in this textbook and CLRS and skiena as this would be an excellent exercise for me. <b>After</b> that I will revise everything in the past chapters to see if something is missing or to be re-written. This would be the first revise for the repo.
 </br>
 
 This repository is meant to be a very **comprehensive** solution manual/notes/implementations for https://amzn.to/2OjKobm. My intention is to implement all the algorithms explained in the book or even have been hinted at.</br>
