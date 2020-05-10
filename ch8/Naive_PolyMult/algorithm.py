@@ -10,11 +10,16 @@ def naive_poly_mult(P, Q):
     """
 
     # The product polynomial
-    M = {k : 0 for k in range(len(P) + len(Q) - 1)}
+    M = dict()
 
     for i in P:
         for j in Q:
-            M[i+j] = M[i+j] + P[i] * Q[j]
+            try:
+                M[i+j] = M[i+j] + P[i] * Q[j]
+            # in case this power is not present in our dictionary already
+            # this zero is just to show that this is a new added power
+            except:                            
+                M[i+j] = 0 + P[i] * Q[j]
 
     return M
 
