@@ -50,8 +50,10 @@ The description is very much explaining how I will do things here, but there are
 |<sup>**Chapter 4**</sup>|<sup>**Trees**</sup>|<sup>**and**</sup>|<sup>**Applications**</sup>|<sup>**to Algorithms**</sup>|
 |<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|<sup>`data structures`</sup>|
 |<sup>**Chapter 5**</sup>|<sup>**More**</sup>|<sup>**on**</sup>|<sup>**Sorting**</sup>|<sup>**Algorithms**</sup>|
-| <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|[`shell-sort`](ch5/Shell_Sort)|<sup>-</sup>|
-| <sup>172</sup> |`python`-`c++`-`bash`|-|[`bingo-sort`](Bingo_Sort)|<sup>-</sup>|
+| <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|[`shell-sort`](./../ch5/Shell_Sort)|<sup>-</sup>|
+| <sup>172</sup> |`python`-`c++`-`bash`|-|[`bingo-sort`](./../ch5/Bingo_Sort)|<sup>-</sup>|
+|<sup>**Chapter 8**</sup>|<sup>**Divide**</sup>|<sup>**and**</sup>|<sup>**Conquer**</sup>||
+| <sup>239</sup> |``python`-`c++`-`c#`-`bash`-`golang`|-|[naive-polynomical-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
 ||||||
 
 </br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>

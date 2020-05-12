@@ -2,6 +2,14 @@ package main
 
 import "fmt"
 
+// Keyword arguments:
+// P -- The dictionary of first polynomial
+// Q -- The dictionary of second polynomial
+
+// return dictionary with keys as powers of X
+// and values as coefficient associated with the
+// respective keys.
+
 func naive_poly_mult(P map[int]int, Q map[int]int) map[int]int {
 	M := map[int]int{}
 	for keyP, valueP := range P {
@@ -33,8 +41,8 @@ func main() {
 	M := naive_poly_mult(P, Q)
 
 	for key, value := range M {
-		fmt.Println(key)
+		fmt.Print(key)
+		fmt.Printf("-")
 		fmt.Println(value)
-		fmt.Println("------------")
 	}
 }
