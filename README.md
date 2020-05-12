@@ -1,11 +1,7 @@
 # Algorithms-Sequential-Parallel-Distributed
 
 This repository is meant to be a very **comprehensive** solution manual/notes/implementations for https://amzn.to/2OjKobm. My intention is to implement all the algorithms explained in the book or even have been hinted at.</br>
-The motivation behind that, because while I was studying from that book and after a bit of searching for ambiguous stuff in it, I couldn't find any solutions or anything like CLRS or skiena books solutions and articles floating the internet, despite being much better and focused in my opinion.</br>
-
-----
-
-The description is very much explaining how I will do things here, but there are some stuff to be taken in consideration, if you will use any of that code.</br></br> If I going to do something cool in any algorithm, see the `python`, `c++`, `java`, or `bash` implementations, the other languages implementations are just me googling how to write for loops and decalre variables in these languages, `bash` is like that also but I have written multiple not-so-trivial stuff with it before. I usually read each chapter multiple times, so If you find something missing, check later and hopefully you will find it.</br></br>
+The motivation behind that, because while I was studying from that book and after a bit of searching for ambiguous stuff in it, I couldn't find any solutions or anything like CLRS or Skiena books solutions and articles floating the internet, despite being much better and and more textbook-y in my opinion.</br>
 
 ----
 
@@ -46,10 +42,10 @@ The description is very much explaining how I will do things here, but there are
 | <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|[`shell-sort`](./../ch5/Shell_Sort)|<sup>-</sup>|
 | <sup>172</sup> |`python`-`c++`-`bash`|-|[`bingo-sort`](./../ch5/Bingo_Sort)|<sup>-</sup>|
 |<sup>**Chapter 8**</sup>|<sup>**Divide**</sup>|<sup>**and**</sup>|<sup>**Conquer**</sup>||
-| <sup>239</sup> |``python``-``c++``-``c#``-``bash``-``golang``|-|[`naive-polynomical-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
+| <sup>239</sup> |``python``-``c++``-``c#``-``bash``-``golang``|-|[`naive-polynomial-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
 ||||||
 
-</br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
+</br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structure are implemented with anything cool, but not *very* cool, I find on the internet.</br>
 
 <b>Data Structures</b></br></br>
 
