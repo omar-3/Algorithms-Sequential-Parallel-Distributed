@@ -1,12 +1,5 @@
 # Algorithms-Sequential-Parallel-Distributed
 
-**I'm in a middle of a hard semester now, but I didn't abandon the project**</br></br>
-</br><b>CURRENT STATE</b></br><sup>14-4-2020</sup></br>
-I'm doing the chapters 7/8/9/10 which are on dynamic programming and greedy programming and state-space search and that stuff.The plan is to provide the solution for these topics in this textbook and CLRS and skiena as this would be an excellent exercise for me. <b>After</b> that I will revise everything in the past chapters to see if something is missing or to be re-written. This would be the first revise for the repo.
-</br>
-
----
-
 This repository is meant to be a very **comprehensive** solution manual/notes/implementations for https://amzn.to/2OjKobm. My intention is to implement all the algorithms explained in the book or even have been hinted at.</br>
 The motivation behind that, because while I was studying from that book and after a bit of searching for ambiguous stuff in it, I couldn't find any solutions or anything like CLRS or skiena books solutions and articles floating the internet, despite being much better and focused in my opinion.</br>
 
@@ -53,7 +46,7 @@ The description is very much explaining how I will do things here, but there are
 | <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|[`shell-sort`](./../ch5/Shell_Sort)|<sup>-</sup>|
 | <sup>172</sup> |`python`-`c++`-`bash`|-|[`bingo-sort`](./../ch5/Bingo_Sort)|<sup>-</sup>|
 |<sup>**Chapter 8**</sup>|<sup>**Divide**</sup>|<sup>**and**</sup>|<sup>**Conquer**</sup>||
-| <sup>239</sup> |``python`-`c++`-`c#`-`bash`-`golang`|-|[naive-polynomical-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
+| <sup>239</sup> |``python``-``c++``-``c#``-``bash``-``golang``|-|[`naive-polynomical-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
 ||||||
 
 </br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structures are implemented with anything cool, but not *very* cool, I find.</br>
