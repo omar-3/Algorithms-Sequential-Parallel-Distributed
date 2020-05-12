@@ -42,7 +42,7 @@ The motivation behind that, because while I was studying from that book and afte
 | <sup>168</sup> |`python`-`c++`-`c#`-`bash`-`golang`-`java`|-|[`shell-sort`](./../ch5/Shell_Sort)|<sup>-</sup>|
 | <sup>172</sup> |`python`-`c++`-`bash`|-|[`bingo-sort`](./../ch5/Bingo_Sort)|<sup>-</sup>|
 |<sup>**Chapter 8**</sup>|<sup>**Divide**</sup>|<sup>**and**</sup>|<sup>**Conquer**</sup>||
-| <sup>239</sup> |``python``-``c++``-``c#``-``bash``-``golang``|-|[`naive-polynomial-multiplication`](./../ch8/Naive_PolyMult)|<sup>-</sup>|
+| <sup>239</sup> |``python``-``c++``-``c#``-``bash``-``golang``|-|[`naive-polynomial-multiplication`](./ch8/Naive_PolyMult)|<sup>-</sup>|
 ||||||
 
 </br>For every data structure there would be a corresponding file for that in the data structure directory, in which the data structure, and all the mentioned utilities for the data structure are implemented with anything cool, but not *very* cool, I find on the internet.</br>
