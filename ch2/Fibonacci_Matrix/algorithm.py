@@ -8,7 +8,7 @@ import numpy as np
 
 
 def power(m,n):
-    accum = np.identity(len(m),dtype=int)
+    accum = np.identity(len(m),dtype='uint64')
     product = m
     while n>1:
         if (n & 1):
@@ -29,3 +29,6 @@ def fib(n):
 
 # I will make chat for this particular problem because fibonacci computing problem
 # is surprisingly well-researched 
+
+
+# doesn't work
